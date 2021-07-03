@@ -1,6 +1,6 @@
 # Node Typescript Template
 
-Basic node template using rollup to output ts -> js
+Basic node template using rollup to output ts -> js.\ 
 Project is setup for a basic express server with passport and mongo. 
 Delete packages as needed. 
 
